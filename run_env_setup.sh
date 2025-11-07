@@ -20,4 +20,4 @@ REQUIREMENTS_YML=${2:-requirements.yml}
 # ------------------------------------------------------------------------------
 # Call the setup script located in setup/python
 # ------------------------------------------------------------------------------
-bash setup/python/setup_venv.sh "$ENV_NAME" "$REQUIREMENTS_YML"
+bash SETUP/python/setup_venv.sh "$ENV_NAME" "$REQUIREMENTS_YML"
