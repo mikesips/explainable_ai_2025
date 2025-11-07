@@ -20,6 +20,7 @@ streamlit run visa.py
 After running the command, Streamlit will start the web server and open the VISA application in your default web browser. If it doesn't open automatically, you can manually navigate to: http://localhost:8501 in your default web browser.
 
 ⚠️ Troubleshooting
+
 Streamlit not installed: If you see an error saying that Streamlit is not installed, ensure that you installed the dependencies. Go to [Installation Instruction](./../SETUP/local-install-instructions.md)
 
 Port already in use: If the default port 8501 is already in use, you can specify a different port by running:
