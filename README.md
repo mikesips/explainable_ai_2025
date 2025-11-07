@@ -23,7 +23,7 @@ We use the VISA system for getting hands-on to Explainable AI methods [hands-on 
 **GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007**
  
 `visa` is free software: you may redistribute and/or modify it under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](), as published by the Free Software Foundation (29 June 2007).
-© 2025 Noel Kronenberg, Aodi Chen, Fabian Henning (You can find related code in the [VISA Repository](https://github.com/noelkronenberg/visa).
+© 2025 Noel Kronenberg, Aodi Chen, Fabian Henning (You can find related code in the [VISA Repository](https://github.com/noelkronenberg/visa)).
 
 This software is distributed in the hope that it will be useful, **but WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**.
 
