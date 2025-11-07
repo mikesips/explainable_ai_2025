@@ -56,6 +56,7 @@ python check_environment.py REQUIREMENTS\requirements_venv.yml
 
 If everything is correctly installed, the output should look like:
 ```
+Using Python from: /home/mike/Workshops/test/explainable_ai_2025/explainable_ai_2025
 3.11.2 (main, Apr 28 2025, 14:11:48) [GCC 12.2.0]
 [ OK ] Python 3.11 is compatible.
 
@@ -63,15 +64,12 @@ If everything is correctly installed, the output should look like:
 
 [INFO] Checking installed packages
 
-[ OK ] dask version 2025.5.1
-[ OK ] pystac_client version 0.8.6
-[ OK ] matplotlib version 3.10.3
-[ OK ] geopandas version 1.1.0
-[ OK ] rioxarray version 0.19.0
-[ OK ] shapely version 2.1.1
+[ OK ] streamlit version 1.51.0
+[ OK ] pandas version 2.3.3
+[ OK ] scikit-learn version 1.7.2 
+[ OK ] plotly version 6.4.0
 
 [INFO] Environment check complete. All installable requirements have been processed.
-
 ```
 
 ## 📦 4. Alternatively, use bash script
