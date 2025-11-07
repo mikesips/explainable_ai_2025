@@ -80,11 +80,8 @@ git clone https://github.com/mikesips/explainable_ai_2025.git
 # Navigate into the project directory
 cd explainable_ai_2025
 
-# Create a virtual environment (named 'explainable_ai_2025')
-python3 -m venv explainable_ai_2025
+# Run Bash Script
+./run_env_setup.sh explainable_ai_2025
 
 # Activate the virtual environment (Linux/macOS)
 source explainable_ai_2025/bin/activate
-
-# Run Bash Script
-./run_env_setup.sh
