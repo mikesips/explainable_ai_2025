@@ -15,7 +15,7 @@
 # Default parameters (can be overridden via command line)
 # ------------------------------------------------------------------------------
 ENV_NAME=${1:-venv}
-REQUIREMENTS_YML=${2:-"./REQUIREMENTS/requirements.yml"}
+REQUIREMENTS_YML=${2:-"./REQUIREMENTS/requirements_venv.yml"}
 
 # ------------------------------------------------------------------------------
 # Call the setup script located in SETUP/python
