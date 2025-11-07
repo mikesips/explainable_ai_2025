@@ -14,7 +14,8 @@ The guide walks you through:
 ---
 ## 🧪 2025-11-24: Hands-On with VISA sytem
 
-We use the VISA system for getting hands-on to Explainable AI methods [hands-on for workshop](./HANDS_ON/hands-on.md). 
+We use the VISA system for getting hands-on to Explainable AI methods [hands-on for workshop](./HANDS_ON/hands_on.md). 
+
 ---
 
 ## 📄 License
