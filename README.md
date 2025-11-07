@@ -29,10 +29,11 @@ This software is distributed in the hope that it will be useful, **but WITHOUT A
 
 A copy of the GNU GENERAL PUBLIC LICENSE should be included in this repository.
 
+
 **EUROPEAN UNION PUBLIC LICENCE v. 1.2** 
-© 2025 Helmholtz Centre Geosciences, Potsdam, Germany
 
 `explainable_ai_2025` installation scripts are free software: you may redistribute and/or modify it under the terms of the [EUROPEAN UNION PUBLIC LICENCE v. 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12), as published by the European Union (2007, 2016).
+© 2025 Helmholtz Centre Geosciences, Potsdam, Germany
 
 This software is distributed in the hope that it will be useful, **but WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**.
 
